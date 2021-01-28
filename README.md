@@ -28,7 +28,7 @@ all other texts remain the same.
 The Huffman tree as a text (Tree Code):
 We start from the root, all 0s are internal nodes and all 1s are leaf nodes followed by a character.
 
-Exmple:
+Example:
 
 Tree:
         7
