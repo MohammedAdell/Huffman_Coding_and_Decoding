@@ -28,28 +28,5 @@ all other texts remain the same.
 The Huffman tree as a text (Tree Code):
 We start from the root, all 0s are internal nodes and all 1s are leaf nodes followed by a character.
 
-Example:
-
-Tree:
-        7
-  -------------
-  3           4
------     ---------
-A   B     2       2
-2   1   -----   -----
-        C   D   E   F
-        1   1   1   1
-
-Paths:
-
-A: 00
-B: 01
-C: 100
-D: 101
-E: 110
-F: 111
-
-Tree: 001A1B001C1D01E1F = 59 bits
-Data: 000001100101110111 = 18 bits
-Sum: 59 + 18 = 77 bits = 10 bytes
-AABCDEF
+For a clear example, check out the README file uploaded with the project file.
+This text file does not allow me to draw a tree.
