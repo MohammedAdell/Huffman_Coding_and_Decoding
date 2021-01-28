@@ -1,3 +1,6 @@
+#Huffman_Coding_and_Decoding
+This was a project for the algorithms course CSC311 in April 2020.
+
 Huffman Coding:
 This is an implementation of Huffman coding for digital compression.
 It is named after David Huffman, who invented the technique as a graduate student at MIT in 1950.
