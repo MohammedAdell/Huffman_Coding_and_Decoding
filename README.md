@@ -31,14 +31,14 @@ We start from the root, all 0s are internal nodes and all 1s are leaf nodes foll
 Example:
 
 Tree:
-----------7
-----'''''''''''''
-----3           4
---'''''     ''''''''''
---A   B     2       2
---2   1   ''''''  '''''
-----------C   D   E   F
-----------1   1   1   1
+        7
+  -------------
+  3           4
+-----     ---------
+A   B     2       2
+2   1   -----   -----
+        C   D   E   F
+        1   1   1   1
 
 Paths:
 
