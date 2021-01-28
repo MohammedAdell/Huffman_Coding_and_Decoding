@@ -29,4 +29,4 @@ The Huffman tree as a text (Tree Code):
 We start from the root, all 0s are internal nodes and all 1s are leaf nodes followed by a character.
 
 For a clear example, check out the README file uploaded with the project file.
-This text file does not allow me to draw a tree.
+This text editor does not allow me to draw a tree.
